@@ -1,0 +1,14 @@
+[1121/103645.047:ERROR:icu_util.cc(172)] Invalid file descriptor to ICU data received.
+[1121/103645.154:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name plat, discarding value Win64
+[1121/103645.154:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[1121/103645.154:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 56.0.3051.99
+[1121/103645.154:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[1121/103645.154:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value browser
+[1121/103647.974:ERROR:icu_util.cc(172)] Invalid file descriptor to ICU data received.
+[1121/103648.124:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name plat, discarding value Win64
+[1121/103648.124:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[1121/103648.124:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 56.0.3051.99
+[1121/103648.124:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[1121/103648.124:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value browser
+[1121/103704.215:ERROR:http_transport_win.cc(346)] WinHttpWriteData: La connexion avec le serveur a été interrompue anormalement (0x2efe)
+[1121/103707.898:ERROR:http_transport_win.cc(346)] WinHttpWriteData: La connexion avec le serveur a été interrompue anormalement (0x2efe)
